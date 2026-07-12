@@ -1,7 +1,7 @@
 # NextGen Sustainability Conference (NGSC) 2026
-ESG-integrated equity long pitch on Advanced Drainage Systems (NYSE: WMS). Semi-finalists at NAISC 2026. Two-thesis BUY with a DCF target of $190.65 (40.5% upside).
+ESG-integrated equity long pitch on Advanced Drainage Systems (NYSE: WMS). Semi-finalists at NGSC 2026. Two-thesis BUY with a DCF target of $190.65 (40.5% upside).
 
-# NGSC 2026: Advanced Drainage Systems (NYSE: WMS) Stock Pitch
+# Advanced Drainage Systems (NYSE: WMS) Stock Pitch
 
 > **Competition:** NextGen Sustainability Conference 2026 (NGSC)
 > **Result:** Semi-Finalists
