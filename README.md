@@ -11,7 +11,7 @@ ESG-integrated equity long pitch on Advanced Drainage Systems (NYSE: WMS). Semi-
 
 An ESG-integrated equity long pitch recommending a **BUY** on Advanced Drainage Systems at a 60-month target of **US$190.65 (40.5% upside)**. Developed for NGSC 2026, a national stock pitch competition organised by SMU Sustainable Investment Club, Next Gen Investors Endowment, and SUSS, judged by senior investment professionals from GIC, Fidelity Investments, Baillie Gifford Asia, and Phillip Capital Management.
 
-[![View Pitch Deck](https://img.shields.io/badge/View_Pitch_Deck-143C24?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](#)
+[![View Pitch Deck](https://img.shields.io/badge/View_Pitch_Deck-143C24?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](deck/ESG%20Presentation%20Final.pptx)
 
 ## 💡 Investment Thesis
 
